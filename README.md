@@ -1,0 +1,2 @@
+# earning
+earnings-manipulator-app
